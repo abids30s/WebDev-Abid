@@ -1,0 +1,25 @@
+.box-N{
+    background-color: navy;
+    width: fit-content ;
+}
+
+.box-W{
+    background-color: rgba(245, 245, 245, 0.76);
+    width: fit-content;
+}
+
+.box-G{
+    background-color: gold;
+    width: fit-content;
+}
+
+.box-B{ 
+    background-color: beige;
+    width: fit-content;
+}
+
+.container{
+    background-color: aquamarine;
+    display: flex ; 
+    flex-direction:row;
+}
